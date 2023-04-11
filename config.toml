@@ -4,7 +4,7 @@ baseURL = "https://jeppebylov.github.io/Blog"
 theme = "LoveIt"
 
 # website title
-title = "Bylov's blog"
+#title = "Bylov's blog"
 
 # language code ["en"]
 languageCode = "en"
