@@ -4,7 +4,7 @@ baseURL = "https://jeppebylov.github.io/Blog"
 theme = "LoveIt"
 
 # website title
-title = "BC by Bylov"
+title = "Bylov's blog"
 
 # language code ["en"]
 languageCode = "en"
@@ -53,3 +53,11 @@ languageName = "English"
   [markup.highlight]
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
+  
+# Social
+[params.social]
+  GitHub = "JeppeBylov"
+  Twitter = "BylovJeppe"
+  LinkedIn = "jeppebylov"
+  email = "jeppe@bylov.net"
+  RSS = true
